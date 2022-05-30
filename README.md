@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdessatar002
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JAVA - SringBoot / Angular
+- 🌱 I’m currently learning JAVA - SpringBoot / Angular
 - 📫 How to reach me 002.abdou@gmail.com
 
 <!---
